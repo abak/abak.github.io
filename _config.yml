@@ -23,4 +23,9 @@ author:
   email:             adrien.bak@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:            1.0.0
+
+#analytics
+ga:
+  id:                UA-55822463-1
+  domain:            abak.github.io
