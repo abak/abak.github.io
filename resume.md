@@ -14,9 +14,9 @@ title: Resume
 
 As a lead software engineer, I primarily work on the development of a sampling profiling solution based around the perf subsystem of the Linux kernel. This involves low-level programming as well as the definition of algorithm allowing a user to extract high-level performance indicators. Given my expertise of Image Processing and Computer Vision, I am also involved in short term projects requiring those skills.
 
-*Keywords: High Performance Computing - Parallel Computing - Systems - Profiling*
+*Keywords* : High Performance Computing - Parallel Computing - Systems - Profiling
 
-*Skills: C++, Boost, C, python, Linux system programming, project management*
+*Skills* : C++, Boost, C, python, Linux system programming, project management
 
 ### [DxO Labs](http://www.dxo.com)
 #### Image Processing R&D Engineer - 2011 to 2013
@@ -27,9 +27,9 @@ Most notably, I designed and implemented a new HDR rendering and tone-mapping me
 
 I also improved the performance of various component, in order to provide Optics Pro users with the best possible results. This was done using SIMD instructions, or OpenCL, as well as reducing the memory footprint of specific algorithms.
 
-*Keywords : Image Processing - Image Quality Evaluation - Image Quality Enhancement - Raw Pipeline - Photography*
+*Keywords* : Image Processing - Image Quality Evaluation - Image Quality Enhancement - Raw Pipeline - Photography
 
-*Skills: C++, Python, Agile methodologies, Unit Testing, Software Engineering*
+*Skills* : C++, Python, Agile methodologies, Unit Testing, Software Engineering
 
 ### [Universite Paris-Sud XI](http://www.u-psud.fr/)
 #### Image Processing PhD Student - 2008 to 2011
@@ -40,18 +40,18 @@ This was implemented as a complete, real-time system that was embedded in was of
 
 Finally, a fine study of imprecision sources was also conducted, which led to a set of recommandations, useful for every designer of intelligent and mobile vision system.
 
-*Keywords: Visual Odometry - Computer Vision - Intelligent Vehicles - Stereovision - Motion Analysis - Real-time*
+*Keywords* : Visual Odometry - Computer Vision - Intelligent Vehicles - Stereovision - Motion Analysis - Real-time
 
-*Skills: C++ - Matlab - Parallel Computing*
+*Skills* : C++ - Matlab - Parallel Computing
 
 ### [Stemmer Imaging](http://www.stemmer-imaging.fr/)
 #### Field Application Engineer - 2007 to 2008
 
 As a Field Application Engineer, my first responsibility was to accompany industrial prospects and clients and help them design and implement a vision system meeting their requirements. I was involved in a wide variety of projects, ranging from industrial vision (quality control) to academic research (stereo vision) and to entertainment (real time motion capture)
 
-*Keywords: Machine Vision - Image processing - Acquistion Systems*
+*Keywords* : Machine Vision - Image processing - Acquistion Systems
 
-*Skills: C#, C++, System Design*
+*Skills* : C#, C++, System Design
 
 ## Education
 ### Master's Degree - Engineer Diploma
