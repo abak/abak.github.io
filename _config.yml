@@ -29,3 +29,7 @@ version:            1.0.0
 ga:
   id:                UA-55822463-1
   domain:            abak.github.io
+
+social:
+  github:         https://github.com/abak
+  email:          adrien.bak@gmail.com
