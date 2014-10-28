@@ -24,9 +24,12 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-
-    <a class="sidebar-nav-item" href="http://www.github.com/abak">GitHub</a>
   </nav>
+
+   <ul class="sidebar-nav">
+      <li class="sidebar-nav-item"><a href="{{ site.social.github }}"><i class="fa fa-github-alt fa-2"></i> Github</a></li>
+      <li class="sidebar-nav-item"><a href="mailto:{{ site.social.email }}"><i class="fa fa-envelope fa-2"></i> {{ site.social.email}}</a></li>
+    </ul>
 
   <div class="sidebar-item">
     <p>
