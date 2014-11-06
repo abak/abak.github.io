@@ -28,7 +28,7 @@ version:            1.0.0
 #analytics
 ga:
   id:                UA-55822463-1
-  domain:            abak.github.io
+  domain:            abak.io
 
 social:
   github:         https://github.com/abak
