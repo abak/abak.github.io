@@ -2,7 +2,7 @@
 layout: post
 title: PyGit2 in pacbackup
 description: PyGit2 provides full access to the git data model. Its use to perform seemingly simple tasks can be daunting. Here is a real life exmaple.
-keywords: python, git,pygit2,tutorial,example,archlinux,arch,backup,pacbackup
+keywords: python,git,pygit2,tutorial,example,archlinux,arch,backup,pacbackup
 ---
 
 My main machine runs under [Arch Linux](https://www.archlinux.org/). Given the fact that it is a rolling release distro, updating can sometimes bring problems. The fact that it is DIY also means that I can mess things up and make my system unbootable. So I'm developping [pacbackup](https://github.com/abak/pacbackup), a utility that backs-up the list of all installed packages on my systems, and provides a way to restore them after a catastrophic failure, from a completely fresh install.
@@ -26,10 +26,7 @@ For pacbackup, I needed to perform the following :
   ````
   git add . && git commit -m "some commit message"
   ````
-  * push the commits to a remote
-  ````
-  git push remote_name branch_name
-  ````
+
 
 
 ##git init
@@ -40,9 +37,6 @@ Initializing an empty repo is fairly straigthforward :
 pygit2.init_repository(path, False)
 ````
 Where the last argument indicates whether the repository is [bare](http://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/) or not.
-
-
-##git push
 
 
 ##git add . && git commit
