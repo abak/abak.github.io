@@ -1,6 +1,8 @@
 ---
 layout: post
 title: PyGit2 in pacbackup
+description: PyGit2 provides full access to the git data model. Its use to perform seemingly simple tasks can be daunting. Here is a real life exmaple.
+keywords: python, git,pygit2,tutorial,example,archlinux,arch,backup,pacbackup
 ---
 
 My main machine runs under [Arch Linux](https://www.archlinux.org/). Given the fact that it is a rolling release distro, updating can sometimes bring problems. The fact that it is DIY also means that I can mess things up and make my system unbootable. So I'm developping [pacbackup](https://github.com/abak/pacbackup), a utility that backs-up the list of all installed packages on my systems, and provides a way to restore them after a catastrophic failure, from a completely fresh install.
