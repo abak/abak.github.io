@@ -12,14 +12,14 @@ relative_permalinks: true
 title:               Adrien Bak
 tagline:             Homepage
 description:         'A page about stuff'
-url:                 http://abak.github.com
+url:                 http://www.abak.io
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
   name:              Adrien Bak
-  url:               http://abak.github.com
+  url:               http://www.abak.io
   email:             adrien.bak@gmail.com
 
 # Custom vars
