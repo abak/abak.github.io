@@ -5,9 +5,7 @@ title: PyGit2 in pacbackup
 
 My main machine runs under [Arch Linux](https://www.archlinux.org/). Given the fact that it is a rolling release distro, updating can sometimes bring problems. The fact that it is DIY also means that I can mess things up and make my system unbootable. So I'm developping [pacbackup](https://github.com/abak/pacbackup), a utility that backs-up the list of all installed packages on my systems, and provides a way to restore them after a catastrophic failure, from a completely fresh install.
 
-
 ---
-
 
 One of the features I wanted for pacbackup is tha ability to version my package list in order to restore it at a former point in time, in the event that a particular piece of software caused incompatibilities (I'm looking at you GPU drivers). 
 
