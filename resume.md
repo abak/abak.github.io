@@ -19,7 +19,7 @@ As a lead software engineer, I primarily work on the development of a sampling p
 *Skills* : C++, Boost, C, python, Linux system programming, project management
 
 ### [DxO Labs](http://www.dxo.com)
-#### Image Processing R&D Engineer - 2011 to 2013
+#### Image Processing R&D Engineer - July 2011 to Sept. 2013
 
 As an Image Processing Engineer, I took part in the definition and implementation of image processing features  (tonemapping, denoising,.) of the raw converter software DxO Optics Pro. As a framework engineer, I took part in the design and the implementation of the API provided to GUI teams, as well as the overall performance optimization of the correction engine.
 
@@ -32,7 +32,7 @@ I also improved the performance of various component, in order to provide Optics
 *Skills* : C++, Python, Agile methodologies, Unit Testing, Software Engineering
 
 ### [Universite Paris-Sud XI](http://www.u-psud.fr/)
-#### Image Processing PhD Student - 2008 to 2011
+#### Image Processing PhD Student - Sept. 2008 to July 2011 (public defense 14 Oct 2011)
 
 The main objective of this work was to design and implement new ways to establish a collaboration between stereo-vision and motion analysis, in order to improve road safety and intelligent vehicles autonomy. The primary axis of this work was to combine stereo-vision and points correspondences in order to measure the sensor's ego-motion. This ego-motion was finally compensated in order to detect independent motion. 
 
@@ -45,7 +45,7 @@ Finally, a fine study of imprecision sources was also conducted, which led to a 
 *Skills* : C++ - Matlab - Parallel Computing
 
 ### [Stemmer Imaging](http://www.stemmer-imaging.fr/)
-#### Field Application Engineer - 2007 to 2008
+#### Field Application Engineer - Oct. 2007 to Sept.2008
 
 As a Field Application Engineer, my first responsibility was to accompany industrial prospects and clients and help them design and implement a vision system meeting their requirements. I was involved in a wide variety of projects, ranging from industrial vision (quality control) to academic research (stereo vision) and to entertainment (real time motion capture)
 
