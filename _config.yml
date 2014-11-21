@@ -23,7 +23,7 @@ author:
   email:             adrien.bak@gmail.com
 
 # Custom vars
-version:            1.0.0
+version:             1.0.0
 
 #analytics
 ga:
@@ -31,5 +31,8 @@ ga:
   domain:            abak.io
 
 social:
-  github:         https://github.com/abak
-  email:          adrien.bak@gmail.com
+  github:            https://github.com/abak
+  email:             adrien.bak@gmail.com
+
+pacbackup:
+  url:               http://www.abak.io/pacbackup
