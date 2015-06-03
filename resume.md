@@ -9,11 +9,22 @@ title: Resume
 
 ## Experiences
 
+###[Indeed](http://www.indeed.com)
+#### Software Engineer - March 2015 to Present
+
+Indeed is the #1 job search engine , serving  more than 180 millions of jobseekers every month. As a member of the aggregation team, I am responsible for finding them jobs to apply to. Specifically, I develop and improve tools that crawl the web, in order to identify and extract jobs.  
+
+
+*Keywords* : Aggregation - Natural Language Processing - Data Extraction - Machine Learning
+
 ### [Numscale](http://www.numscale.com) 
 
-#### Freelance Software Engineer - January 2014 to Present
+#### Freelance Software Engineer - January 2014 to Dec. 2014  
 
-As a lead software engineer, I primarily work on the development of a sampling profiling solution based around the perf subsystem of the Linux kernel. This involves low-level programming as well as the definition of algorithm allowing a user to extract high-level performance indicators. Given my expertise of Image Processing and Computer Vision, I am also involved in short term projects requiring those skills.
+As the lead software engineer, I was primarily working on the prototyping and development of a sampling profiler based around the perf subsystem of the linux kernel. This product is being used both internally by Numscale engineers, and deployed as a [web service](http://analyzer.numscale.com/). This prodict provides both low-level insight  on multiple key aspects of the an application behaviour, but also a synthetic, high level report on how to improve the application and what results can be achieved.
+
+Given my expertise of Image Processing and Computer Vision, I was also involved, as a consultant, in projects requiring those skills.
+
 
 *Keywords* : High Performance Computing - Parallel Computing - Systems - Profiling
 
