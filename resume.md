@@ -9,7 +9,8 @@ title: Resume
 
 ## Experiences
 
-###[Indeed](http://www.indeed.com)
+### [Indeed](http://www.indeed.com)
+
 #### Software Engineer - March 2015 to Present
 
 Indeed is the #1 job search engine , serving  more than 180 millions of jobseekers every month. As a member of the aggregation team, I am responsible for finding them jobs to apply to. Specifically, I develop and improve tools that crawl the web, in order to identify and extract jobs.  
