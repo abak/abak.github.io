@@ -10,6 +10,7 @@ title: Mentoring Supoptique - Présentation
   * skype : adrien.bak
   * [@abak__](http://www.twitter.com/#!/abak__)
 
+
 ### Software Engineer - Indeed - Tokyo
 
 
