@@ -8,13 +8,10 @@ title: Mentoring Supoptique - Présentation
 
   * [adrien.bak@gmail.com](mailto:adrien.bak+supop_mentoring@gmail.com)
   * skype : adrien.bak
-  * [@abak__](http://www.twitter.com/#!/abak__)
+  * [@abak__ ]( http://www.twitter.com/#!/abak__)
 
 
 ### Software Engineer - Indeed - Tokyo
-
-
-
 
 Diplômé en 2007, j'ai débuté ma carrière en rejoignant un [groupe international allemand](http://www.stemmer-imaging.de) de traitement des images et vision par ordinateur en tant qu'ingénieur support. Pendant 9 mois, je suis ainsi intervenu auprès de plusieurs dizaines de clients, afin de les aider a définir leurs besoins et de mettre en place des solutions techniques à leur problèmes. J'ai toutefois rapidement réalisé que les perspectives d'évolution ne correspondaient pas à mes projets, et ai choisi de rejoindre l'[Institut d'Electronique Fondamentale](http://www.ief.u-psud.fr/) (Université Paris Sud) et le [Laboratoire sur les Interactions Véhicule Infrastructure Conducteur](http://www.livic.ifsttar.fr/) pour entamer un travail de thèse sur les véhicules intelligents, et plus particulièrement sur des systèmes bases uniquement sur la vision, permettant de détecter des obstacles potentiels, et d'estimer le mouvement propre d'un véhicule. Au delà du contenu purement scientifique, et du plaisir de travailler pendant trois ans à  la pointe d'un domaine actif et en plein essor, j'ai eu l'occasion de développer des compétences pratiques et surtout un réseau sur lequel j'ai pu m'appuyer depuis.
 
