@@ -13,16 +13,16 @@ title: Resume
 
 #### Software Engineer - March 2015 to Present
 
-Indeed is the #1 job search engine , serving  more than 180 millions of jobseekers every month. As a member of the aggregation team, I am responsible for finding them jobs to apply to. Specifically, I develop and improve tools that crawl the web, in order to identify and extract jobs.  
-
+Indeed is the #1 job search engine , serving  more than 180 millions of jobseekers every month. As a member of the aggregation team, I am responsible for finding them jobs to apply to. More specifically, I design and implement tools based on Machine Learning and Data Mining that crawl the web, identifying job postings in arbitrary websites.
 
 *Keywords* : Aggregation - Natural Language Processing - Data Extraction - Machine Learning
+
 
 ### [Numscale](http://www.numscale.com) 
 
 #### Freelance Software Engineer - January 2014 to Dec. 2014  
 
-As the lead software engineer, I was primarily working on the prototyping and development of a sampling profiler based around the perf subsystem of the linux kernel. This product is being used both internally by Numscale engineers, and deployed as a [web service](http://analyzer.numscale.com/). This prodict provides both low-level insight  on multiple key aspects of the an application behaviour, but also a synthetic, high level report on how to improve the application and what results can be achieved.
+As the lead software engineer, I was primarily working on the prototyping and development of a sampling profiler based around the perf subsystem of the linux kernel. This product is being used both internally by Numscale engineers, and deployed as a [web service](http://analyzer.numscale.com/). This product provides both low-level insight  on multiple key aspects of the an application behaviour, but also a synthetic, high level report on how to improve the application and what results can be achieved.
 
 Given my expertise of Image Processing and Computer Vision, I was also involved, as a consultant, in projects requiring those skills.
 
