@@ -5,13 +5,17 @@ title: Resume
 
 # Adrien BAK
 
- * <adrien.bak@gmail.com>
+ * <adrien@abak.io>
 
 ## Experiences
 
+### [NVidia](www.nvidia.com)
+
+#### DevTech Engineer Computer Vision / Machine Learning - May 2016 to present day
+
 ### [Indeed](http://www.indeed.com)
 
-#### Software Engineer - March 2015 to Present
+#### Software Engineer - March 2015 to May 2016
 
 Indeed is the #1 job search engine , serving  more than 180 millions of jobseekers every month. As a member of the aggregation team, I am responsible for finding them jobs to apply to. More specifically, I design and implement tools based on Machine Learning and Data Mining that crawl the web, identifying job postings in arbitrary websites.
 
