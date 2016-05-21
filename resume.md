@@ -13,6 +13,10 @@ title: Resume
 
 #### DevTech Engineer Computer Vision / Machine Learning - May 2016 to present day
 
+I make self-driving cars, both by helping NVidia customers to implement their systems on [specific hardware](http://www.nvidia.com/object/drive-px.html), and on conduction exploratory research to provide better algorithms and approach.
+
+Those approaches rely on both traditional computer vision and on DNN-based technics.
+
 ### [Indeed](http://www.indeed.com)
 
 #### Software Engineer - March 2015 to May 2016
