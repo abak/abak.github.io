@@ -13,15 +13,17 @@ title: Resume
 
 #### DevTech Engineer Computer Vision / Machine Learning - May 2016 to present day
 
-I make self-driving cars, both by helping NVidia customers to implement their systems on [specific hardware](http://www.nvidia.com/object/drive-px.html), and on conduction exploratory research to provide better algorithms and approach.
 
-Those approaches rely on both traditional computer vision and on DNN-based technics.
+I am a member of the Nvidia team that develops [DriveWorks](http://www.nvidia.com/object/driveworks.html), a set of libraries
+that takes advantage of [specific hardware](http://www.nvidia.com/object/drive-px.html) targeted at autonomous vehicles. I am both implementing a set of tools and computer vision or Deep Learning methods that take advantage of this hardware, to create robust and high performance applications. At the same time, I am helping Nvidia customers to implement their systems and conducting exploratory research to design the systems of tomorrow.
 
+*Keywords* : Computer Vision - Deep Learning - Autonomous Vehicles - Embedded Computing - GPGPU
+ 
 ### [Indeed](http://www.indeed.com)
 
 #### Software Engineer - March 2015 to May 2016
 
-Indeed is the #1 job search engine , serving  more than 180 millions of jobseekers every month. As a member of the aggregation team, I am responsible for finding them jobs to apply to. More specifically, I design and implement tools based on Machine Learning and Data Mining that crawl the web, identifying job postings in arbitrary websites.
+[Indeed](www.indeed.com) is the #1 job search engine , serving  more than 180 millions of jobseekers every month. As a member of the aggregation team, I was responsible for finding them jobs to apply to. More specifically, I designed and implemented tools based on Machine Learning and Data Mining that crawl and scrape the web to identify job postings in arbitrary websites. Additionally, those tools are responsible for extracting a number of unstructured metadata to make indexing possible. Those tools have to perform reliably, and at scale. In addition to my engineering responsibilities, I also took part in mentoring new hires, in order to help them ramp up and develop their skills and provide them with the adequate level of challenge.
 
 *Keywords* : Aggregation - Natural Language Processing - Data Extraction - Machine Learning
 
@@ -35,9 +37,7 @@ As the lead software engineer, I was primarily working on the prototyping and de
 Given my expertise of Image Processing and Computer Vision, I was also involved, as a consultant, in projects requiring those skills.
 
 
-*Keywords* : High Performance Computing - Parallel Computing - Systems - Profiling
-
-*Skills* : C++, Boost, C, python, Linux system programming, project management
+*Keywords* : High Performance Computing - Parallel Computing - SIMD - Systems - Profiling
 
 ### [DxO Labs](http://www.dxo.com)
 
@@ -51,8 +51,6 @@ I also improved the performance of various component, in order to provide Optics
 
 *Keywords* : Image Processing - Image Quality Evaluation - Image Quality Enhancement - Raw Pipeline - Photography
 
-*Skills* : C++, Python, Agile methodologies, Unit Testing, Software Engineering
-
 ### [Universite Paris-Sud XI](http://www.u-psud.fr/)
 
 #### Image Processing PhD Student - Sept. 2008 to July 2011 (public defense 14 Oct 2011)
@@ -65,8 +63,6 @@ Finally, a fine study of imprecision sources was also conducted, which led to a 
 
 *Keywords* : Visual Odometry - Computer Vision - Intelligent Vehicles - Stereovision - Motion Analysis - Real-time
 
-*Skills* : C++ - Matlab - Parallel Computing
-
 ### [Stemmer Imaging](http://www.stemmer-imaging.fr/)
 
 #### Field Application Engineer - Oct. 2007 to Sept.2008
@@ -74,8 +70,6 @@ Finally, a fine study of imprecision sources was also conducted, which led to a 
 As a Field Application Engineer, my first responsibility was to accompany industrial prospects and clients and help them design and implement a vision system meeting their requirements. I was involved in a wide variety of projects, ranging from industrial vision (quality control) to academic research (stereo vision) and to entertainment (real time motion capture)
 
 *Keywords* : Machine Vision - Image processing - Acquistion Systems
-
-*Skills* : C#, C++, System Design
 
 ---
 
@@ -95,43 +89,18 @@ As a Field Application Engineer, my first responsibility was to accompany indust
 
 ## Proficiencies
 
-### Computer Skills 
-
-#### Languages
+### Languages
 
  * C++
- * Python
  * C
- * Javascript
  * Java
+ * Python
+ * Javascript
+ * rust
  * Haskell
  * Perl
 
-#### Librairies
- 
- * Boost
- * OpenCV
- * Qt
- * ImageMagick
-
-
-#### Parallel Computing
-
- * SIMD
- * OpenMP
- * OpenCL
- * CUDA
-
-#### Miscellaneous
-
- * git
- * CMake
- * gTest
- * svn
- * bash
- * Hg
-
-### Languages
+### Other Languages
 
 ##### French - Native
 
