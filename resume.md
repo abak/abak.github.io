@@ -75,6 +75,10 @@ As a Field Application Engineer, my first responsibility was to accompany indust
 
 ## Education
 
+### PhD - Computer Vision (2008 - 2011)
+
+#### [Université Paris Sud](www.u-psud.fr) & [IFSTTAR](http://www.ifsttar.fr/accueil/)
+
 ### Master's Degree - Engineer Diploma (2004 - 2007)
 
 #### [Institut d'Optique Graduate School](https://www.institutoptique.fr/en/)
