@@ -30,11 +30,11 @@ The primary goal would already provide some value, while the other ones are opti
 
 After some minimal amount of digging, I settled on the following hardware:
 
-* Raspberry Pi 3 model B: because the thing is cheap, available, widespread, and a super low footprint
+* [Raspberry Pi 3 model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/): because the thing is cheap, available, widespread, and a super low footprint
  is not critical, so a Pi Zero is not necessary here.
-* Raspberry Pi Camera NoIR V2: this thing is supposed to run in the dark so the lack of an IR cut 
+* [Raspberry Pi Camera NoIR V2](https://www.raspberrypi.org/products/pi-noir-camera-v2/): this thing is supposed to run in the dark so the lack of an IR cut 
 filter is nice, the fact that colors will be wrong is not a concern.
-* DHT22: this is a numerical sensor for both temprature and humidity. It provides its readings as a
+* [DHT22](https://www.adafruit.com/product/385): this is a numerical sensor for both temprature and humidity. It provides its readings as a
  numerical signal, which is convenient, require minimal circuitry, and is super cheap while havingi
   a good enough range and accuracy.
 * IR Leds: Preliminary testing of the camera rig showed that despite the absence of a IR cut filter,
