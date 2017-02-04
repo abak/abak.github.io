@@ -9,7 +9,7 @@ title: Resume
 
 ## Experiences
 
-### [NVidia](www.nvidia.com)
+### [Nvidia](www.nvidia.com)
 
 #### DevTech Engineer Computer Vision / Machine Learning - May 2016 to present day
 
